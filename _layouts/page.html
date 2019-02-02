@@ -5,5 +5,8 @@ layout: default
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+  {% if include.type == "post" %}
+		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+		  {% endif %}
   {{ content }}
 </div>
