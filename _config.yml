@@ -6,8 +6,8 @@
 
 # Setup
 title:               trungjann
-tagline:             'Rảnh rỗi sinh nông nổi'
-description:         'Một blog <a href="http://jekyllrb.com" target="_blank">Jekyll</a> đơn giản, dựa trên theme sẵn có của <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+tagline:             'Tôi rất rảnh, bạn cũng thế'
+description:         'Một blog <a href="http://jekyllrb.com" target="_blank">Jekyll</a> đơn giản được tạo bởi con người lần đầu biết code trông thế nào, các bạn đừng mong đợi nhiều.'
 url:                 http://trungjann.github.io
 baseurl:             ''
 paginate:            5
