@@ -3,22 +3,22 @@ layout: page
 title: Về bản thân tôi
 subtitle: Bàn về việc tại sao tôi lại rảnh đến mức viết cái này
 ---
-# Thông tin cá nhân
+## Thông tin cá nhân
 
 Thật xin lỗi, nhưng còn lâu tôi mới công khai.
 
-# Ý nghĩa của cái tên TrungJann
+## Ý nghĩa của cái tên TrungJann
 
 Tên thật của tôi là Trung. Chữ "Jann" trong tên trang chính là viết tắt của chữ "January".  
 
-## Con gái tên Trung?
+### Con gái tên Trung?
 
 Khi tôi biết tên thật của mình, tôi cũng ngạc nhiên như mọi người vậy.  
 Nhưng tôi không phải người con gái duy nhất tên Trung. Tôi đã gặp được một bạn gái cùng tên với mình trong buổi thi đại học. Cả hai đều không giấu nổi vẻ ngạc nhiên khi biết đến sự tồn tại của đối phương. 
 
 Chúng tôi từ đó đến giờ không gặp lại nhau. 
 
-## Tháng Một
+### Tháng Một
 
 Tháng Một không phải là tháng sinh của tôi, nhưng đối với tôi, đó là một thời điểm có ý nghĩa đặc biệt.
 
@@ -29,7 +29,7 @@ Tên Trung của tôi là một cái tên đại trà, vì vậy, trang email t�
 
 Chỉ là, tư tưởng lớn gặp nhau, "Trungjan" cũng có người lấy rồi. Tôi liều mình gõ thêm một chữ _n_ vào, và từ đó tôi có thêm một cái email chứa tin rác.
 
-# Rảnh hay không rảnh, đó là câu hỏi không có lời giải đáp
+## Rảnh hay không rảnh, đó là câu hỏi không có lời giải đáp
 
 Nói tôi có nhiều thời gian là tuyệt đối không chính xác. 
 
