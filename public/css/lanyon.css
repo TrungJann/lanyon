@@ -85,15 +85,15 @@ h1, h2 {
 @media (min-width: 38em) {
   .container {
     max-width: 75%;          /* change percentages here, if I want to adjust the margins or width of the blog-body */
-    margin-left: 25%;
-    margin-right: 8%;;
+    margin-left: 8%;
+    margin-right: 25%;;
   }
 }
 @media (min-width: 56em) {
   .container {
     max-width: 75%;            /* change percentages here, if I want to adjust the margins or width of the blog-body */
-    margin-left: 25%; 
-    margin-right: 8%;
+    margin-left: 28%; 
+    margin-right: 25%;
   }
 }
 
