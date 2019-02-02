@@ -8,7 +8,7 @@
 title:               trungjann
 tagline:             'Rảnh rỗi sinh nông nổi'
 description:         'Một blog <a href="http://jekyllrb.com" target="_blank">Jekyll</a> đơn giản, dựa trên theme sẵn có của <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+url:                 http://trungjann.github.io
 baseurl:             ''
 paginate:            5
 
