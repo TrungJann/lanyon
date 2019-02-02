@@ -15,6 +15,19 @@ title: Trang chủ
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+      Tags:
+      {% if site.link-tags %}
+      {% for tag in post.tags %}
+      <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
+      {% endfor %}
+      {% else %}
+        {{ post.tags | join: ", " }}
+      {% endif %}
+    </div>
+    {% endif %}
+
   </div>
   {% endfor %}
 </div>
