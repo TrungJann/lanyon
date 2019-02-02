@@ -44,13 +44,19 @@ html {
   font-family: "Open Sans","Average","PT Serif", Georgia, "Times New Roman", serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
+  font-family: "Open Sans","PT Sans", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  color: #4169E1;
+  letter-spacing: -.025rem;
+}
+
+ h3, h4, h5, h6 {
   font-family: "Open Sans","PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
 }
-
 
 /*
  * Wrapper
