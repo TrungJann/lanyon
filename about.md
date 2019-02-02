@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Về bản thân tôi
+title: Về tôi
 subtitle: Bàn về việc tại sao tôi lại rảnh đến mức viết cái này
 ---
 ### Thông tin cá nhân
