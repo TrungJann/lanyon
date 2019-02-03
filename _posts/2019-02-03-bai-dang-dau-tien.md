@@ -2,7 +2,7 @@
 layout: post
 title: Bài đăng đầu tiên
 subtitle: Bàn về việc chắp vá nên blog này, mỗi nơi mượn một ý tưởng
-category: Chuyện công nghệ
+category: Con gà và công nghệ
 tags: [blog, jekyll, github]
 ---
 Người ta bảo, viết blog dễ lắm.
